@@ -1,4 +1,4 @@
-# Other
+# Instructions
 
 Here is the information on how to build and run my project.
 
